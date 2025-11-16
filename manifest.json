@@ -1,0 +1,25 @@
+{
+  "short_name": "EconoNews",
+  "name": "Notícias de Economia em Tempo Real",
+  "icons": [
+    {
+      "src": "https://www.gstatic.com/images/branding/product/1x/gemini_48dp.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "https://www.gstatic.com/images/branding/product/1x/gemini_96dp.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://www.gstatic.com/images/branding/product/2x/gemini_192dp.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1d4ed8",
+  "background_color": "#f0f2f5"
+}

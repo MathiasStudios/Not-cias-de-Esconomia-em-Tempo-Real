@@ -1,0 +1,5 @@
+{
+  "name": "Notícias de Economia em Tempo Real",
+  "description": "Um aplicativo elegante que busca e exibe as últimas notícias de economia em tempo real, utilizando a API do Gemini com busca na web para garantir informações atualizadas.",
+  "requestFramePermissions": []
+}
